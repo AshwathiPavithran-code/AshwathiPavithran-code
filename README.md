@@ -62,6 +62,12 @@ Currently expanding my hands-on expertise in DevOps, Cloud Infrastructure, Kuber
 ⭐ Always learning and building practical solutions in DevOps and Cloud Engineering.
 
 
+## 📄 My Resume
+
+[📥 Download My Resume (PDF)](./Ashwathi_Pavithran_Resume.pdf)
+
+
+
 <!--
 **AshwathiPavithran-code/AshwathiPavithran-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
